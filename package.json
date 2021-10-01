@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "timsort": "^0.3.0"
+  }
+}
